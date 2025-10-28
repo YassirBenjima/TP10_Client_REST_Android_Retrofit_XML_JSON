@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/73100a5e-cd5d-4aab-b3b0-706bb9ff2a79
 # TP 10 : Client REST Android Retrofit (XML & JSON)
 
 ## Objectif
